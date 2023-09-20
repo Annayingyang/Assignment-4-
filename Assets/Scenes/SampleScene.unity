@@ -269,7 +269,7 @@ GameObject:
   - component: {fileID: 40136792}
   - component: {fileID: 40136791}
   - component: {fileID: 40136790}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Terrain_(-2000.00, 0.00, 0.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2558,7 +2558,7 @@ GameObject:
   - component: {fileID: 1656520142}
   - component: {fileID: 1656520141}
   - component: {fileID: 1656520140}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Terrain_(-1000.00, 0.00, 0.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2757,7 +2757,7 @@ MonoBehaviour:
   groundDistance: 0.4
   groundMask:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 72
 --- !u!143 &1666100822
 CharacterController:
   m_ObjectHideFlags: 0
@@ -2804,7 +2804,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1689098685}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 'terrain '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2917,7 +2917,7 @@ GameObject:
   - component: {fileID: 1863181251}
   - component: {fileID: 1863181250}
   - component: {fileID: 1863181249}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Terrain_(-3000.00, 0.00, 0.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2995,7 +2995,7 @@ GameObject:
   - component: {fileID: 2057958395}
   - component: {fileID: 2057958394}
   - component: {fileID: 2057958393}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
